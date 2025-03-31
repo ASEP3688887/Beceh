@@ -1,2 +1,2 @@
-# Beceh
-Bodoh
+# Authfile
+
